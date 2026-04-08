@@ -252,4 +252,4 @@ ul.card li {
         max-width: 480px;
     }
 }
-
+.avatar:hover{opacity:0.5;}
