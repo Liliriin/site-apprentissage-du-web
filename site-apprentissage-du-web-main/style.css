@@ -2,7 +2,7 @@
 
 html, body {
     margin: 0;
-    background: #FAFAFA;
+    background: #a3cbec;
     color: #090021;
     font-family: 'Poppins', sans-serif;
 }
@@ -49,8 +49,8 @@ nav#main-nav ul {
 }
 
 header {
-    background: #8fa6cf; /* Changez la couleur de fond du header */
-    color: #F8F8F8;
+    background: #8da7d4; /* Changez la couleur de fond du header */
+    color: #000000fb;
     height: 453px;
 }
 
@@ -60,8 +60,8 @@ h1 {
     max-width: 1024px;
     margin-left: auto;
     margin-right: auto;
-    font-weight: 600;
-    font-size: 32px;
+    font-weight: 700;
+    font-size: 34px;
     margin-bottom: 0;
 }
 
@@ -92,7 +92,7 @@ section#course {
 }
 
 #course h2 {
-    color: #F8F8F8;
+    color: #000000;
 }
 
 .flex {
@@ -101,14 +101,14 @@ section#course {
 }
 
 .card {
-    background: #FFFFFF;
+    background: #8da7d4;
     padding: 16px;
-    border: 1px solid #F5F5F5;
-    border-radius: 10px;
+    border: 1px solid #90addf;
+    border-radius: 20px;
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 28px;
     font-weight: bold;
     color: #000000;
 }
